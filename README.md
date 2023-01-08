@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @JaStriLaw
 - 👀 I’m interested in coding, games and software
 - 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on nothing at the momeny
+- 💞️ I’m looking to collaborate on nothing at the moment
 - 📫 How to reach me jastrilaw413@gmail.com (for business reasons), jastrilaw413@outlook.com (for personal reasons)
 
 <!---
